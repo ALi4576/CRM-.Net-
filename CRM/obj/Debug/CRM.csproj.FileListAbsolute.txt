@@ -1,0 +1,10 @@
+G:\Documents\Projects_Work\CRM application\CRM\CRM\bin\Debug\CRM.exe.config
+G:\Documents\Projects_Work\CRM application\CRM\CRM\bin\Debug\CRM.exe
+G:\Documents\Projects_Work\CRM application\CRM\CRM\bin\Debug\CRM.pdb
+G:\Documents\Projects_Work\CRM application\CRM\CRM\obj\Debug\CRM.csprojAssemblyReference.cache
+G:\Documents\Projects_Work\CRM application\CRM\CRM\obj\Debug\CRM.Dashboard.resources
+G:\Documents\Projects_Work\CRM application\CRM\CRM\obj\Debug\CRM.Properties.Resources.resources
+G:\Documents\Projects_Work\CRM application\CRM\CRM\obj\Debug\CRM.csproj.GenerateResource.cache
+G:\Documents\Projects_Work\CRM application\CRM\CRM\obj\Debug\CRM.csproj.CopyComplete
+G:\Documents\Projects_Work\CRM application\CRM\CRM\obj\Debug\CRM.exe
+G:\Documents\Projects_Work\CRM application\CRM\CRM\obj\Debug\CRM.pdb
